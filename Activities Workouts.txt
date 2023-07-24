@@ -1,9 +1,78 @@
-<HTML>
-<HEAD>
-<TITLE>Unauthorized</TITLE>
-</HEAD>
-<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
-<H1>Unauthorized</H1>
-<H2>Error 401</H2>
-</BODY>
-</HTML>
+1.How to program Tri-colour LED and light some colours on it?
+Ans)Drag the Tricolour LED block from Tri-colour LED under Wizgear section into the Playground and choose red colour.
+
+2)How to Display the Red-Green-Blue colours in sequence?
+Ans)To display RGB in sequence, start by clicking the tricolor LED block, followed by the color picker block. Then, select red and add a 2-second delay using the delay block. Repeat the process with the green color,blue color, and again with the black color to turn off the LED. Finally, press the run button to observe the output.
+
+3)How to glow rainbow colours in a sequence for an interval of one second for each colour.using tri-color led?
+Ans)To glow rainbow colours in a sequence , start by clicking the tricolor LED block, followed by the color picker block. Then, select red and add a 1-second delay using the delay block. Repeat the process with the orange, yellow, green, blue, indigo, violet and again with the black color to turn off the LED. Finally, press the run button to observe the output.
+
+4)How to make a disco lantern using tri-color LED?
+Ans)"1. Take a white paper of your notebook.
+2. Cut it into two pieces.
+3. Take one half and fold it horizontally from the center.
+4. Now, starting from the folded edge, cut a straight line towards other edge but not completely.
+5. Cut more slits.
+6. Unfold the paper and transform it into lantern.
+7. Keep the lantern above Tri-colour LED and program it to glow beautiful vibrant colours."
+
+5)How to Create a Traffic Signal by lighting the red, yellow and green for 2 seconds on the Tri-colour?
+Ans)to create a Traffic Signal on tri color ,start by clicking the tricolor LED block, followed by the color picker block. Then, select red and add a 2-second delay using the delay block. Repeat the process with the yellow color,green color, and again with the black color to turn off the LED. Finally, press the run button to observe the output.
+
+6)How to form different colours by adjusting the values of red, green and blue colours in Tri-colour LED.?
+Ans)Drag the Wiz Tri-colour R-G-B block into the playground and select your preferred intensity of colour from the drop-down arrow. Finally, press the run button to observe the output.
+
+7)How to Identify the colour intensities (R-G-B values) to form cyan, yellow, and magenta by mixing the three primary colours.
+Ans)"Drag the Wiz Tri-colour R-G-B block into the playground Adjust the values (0 to 255) of red, green and blue to obtain the desired colours
+
+For Cyan: R - 0, G - 255, B - 255
+For Yellow: R - 255, G - 255, B - 0
+For Magenta: R - 255, G - 0, B - 255"
+
+8)How to generate different shades of red using R-G-B values ?
+Ans)Drag the Wiz Tri-colour R-G-B block on the playground. Keeping the value of red constant, vary the values of green and blue. press the run button to observe the output.
+
+9)How to sreatecreate various shades of blue?
+Ans)Drag the Wiz Tri-colour R-G-B block on the playground. Keeping the value of bluered constant, vary the values of green and red. press the run button to observe the output.
+
+10)How to create different shades of the colour blue using loops?
+Ans)Drag the Wiz Tri-colour R-G-B block. Keeping the value of blue constant, vary the values/intensities of green and red for different shades of blue.
+Drag the Loop block and enter the number of counts for which you want to repeat the task?
+
+11)How to Glow orange colour by adjusting intensities of red, green, and blue colours in Tri-colour LED.?
+Ans)"Drag the Tri-colour LED block, which is present under the Wizgear section, into the Playground.
+Intensities:- 
+R= 255, G=150, B=0
+
+12)How to Glow cyan color in breathing pattern for 10 times.Switch the LED ON and OFF for 2 seconds each?
+Ans)"
+Drag the Repeat block under the Loops. insert the switch block into the loop block and set it to 10 times and colors to cyan
+Intensities:-
+R= 0, G=255, B=255
+
+13)Create 5 different shades of blue one by one by adjusting intensities of red, blue and green colour?
+Ans)"Drag the Tri-colour LED block, which is present under the Wizgear section, into the Playground.
+Keeping the value of blue constant, vary the values of green and red. press the run button to observe the output.
+
+14)How to Glow pink colour by adjusting intensities of red, blue and green colour?
+Ans)Drag the Tri-colour LED block, which is present under the Wizgear section, into the Playground. and Set the intensities: R=255, G=100, B=100
+
+15)How to Create 3 different shades of green?
+Ans)"Drag the Tri-colour LED block, which is present under the Wizgear section, into the Playground.
+Keeping the value of green constant, vary the values of blue and red. press the run button to observe the output.
+
+16)How to display the last letter of your name on your 7-Segment Display?
+Ans)Drag the Seven Segment Letters block into the Playground and select the letter from the drop-down arrow. press the run button to observe the output.
+
+17)How to Display all the possible numbers on your 7-Segment Display sequentially.?
+Ans)"Drag and drop the 7-segment block from the 7-segment section to the workspace.
+Connect the 7-segment block with the delay block by 2 sec and clicl the dropdown select the numbers. press the run button to observe the output.
+
+18)How to Light up the LEDs for the sequence “11110010” and find the number?
+Ans)In electronics, '0' represents 'OFF' and '1' represents 'ON'. Drag the Seven Segment block and make the LED glow according to the given sequence. press the run button to observe the output?
+
+19)How to display “HELLO” on the 7-segment Display?
+Ans)Drag the Seven segment letters block into the playground and select the H letter from the drop-down arrow add a delay block of 1 sec continue the same steps for other letters. press the run button to observe the output.
+
+20)How to Create an up-counter to display numbers from 0 to 9 in increasing order using seven segment numbers block?
+Ans)Drag the seven segment number block into the playground and select the relevant number from the drop-down arrow. select the mumber 0 from the drop-down arrow add a delay block of 1 sec continue the same steps in increasing order for other numbers . press the run button to observe the output.
